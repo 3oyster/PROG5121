@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-13T15:49:11Z" name="Surefire suite" finished-at="2025-10-13T15:49:15Z" duration-ms="3873">
+    <groups>
+    </groups>
+    <test started-at="2025-10-13T15:49:11Z" name="Surefire test" finished-at="2025-10-13T15:49:15Z" duration-ms="3873">
+      <class name="com.mycompany.poepart2.RegistrationNGTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.mycompany.poepart2.RegistrationNGTest@b9afc07]" started-at="2025-10-13T15:49:11Z" name="setUpClass" finished-at="2025-10-13T15:49:11Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.mycompany.poepart2.RegistrationNGTest@b9afc07]" started-at="2025-10-13T15:49:11Z" name="setUpMethod" finished-at="2025-10-13T15:49:11Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testCellNumberCheck()[pri:0, instance:com.mycompany.poepart2.RegistrationNGTest@b9afc07]" started-at="2025-10-13T15:49:11Z" name="testCellNumberCheck" finished-at="2025-10-13T15:49:15Z" duration-ms="3855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCellNumberCheck -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:com.mycompany.poepart2.RegistrationNGTest@b9afc07]" started-at="2025-10-13T15:49:15Z" name="tearDownMethod" finished-at="2025-10-13T15:49:15Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.mycompany.poepart2.RegistrationNGTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
